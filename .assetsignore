@@ -1,0 +1,6 @@
+.git
+.wrangler
+tmp
+.env
+.env.*
+.assetsignore
